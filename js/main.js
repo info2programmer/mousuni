@@ -14,9 +14,9 @@ $(document).ready(function () {
 
     $(function(){
        element.typed({
-           strings: ["Backpackers' Camp.", "Mousuni Island.", ],
+           strings: ["Backpackers' Camp", "Mousuni Island", ],
            loop: true,
-           typeSpeed: 90
+           typeSpeed: 160
        });
     });
 
